@@ -1,7 +1,7 @@
 # Hi 👋, I'm Satish Athwal
 
-🎯 Aspiring Data Analyst from India  
-📊 Passionate about Data, Analytics & Problem Solving  
+🎯 Aspiring Data Scientist from India  
+📊 Passionate about Data Science, Machine Learning & Problem Solving  
 
 ---
 
@@ -9,29 +9,30 @@
 - Python 🐍
 - SQL 💾
 - Pandas & NumPy
-- Power BI 📊
+- Machine Learning 🤖
+- Data Visualization 📊
 - Excel
 
 ---
 
 ## 📌 Projects
 🔹 Dynamic Pricing Strategy (Cult.fit Project)  
-🔹 Data Analysis Projects  
-🔹 Coming more...
+🔹 Data Analysis & Machine Learning Projects  
+🔹 More coming soon...
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced SQL
-- Machine Learning
-- Data Visualization
+- Advanced Machine Learning
+- Model Building & Evaluation
+- Data Science Tools & Techniques
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/satish-athwal/
-- Email: satishathwal7@gmail.com
+- LinkedIn: (your link)
+- Email: (your email)
 
 ---
 
-⭐ "Always learning, always growing"
+⭐ "Turning Data into Intelligent Solutions"
