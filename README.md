@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Satish Athwal
 
-<!--
-**SatishAthwal7/SatishAthwal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst from India  
+📊 Passionate about Data, Analytics & Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python 🐍
+- SQL 💾
+- Pandas & NumPy
+- Power BI 📊
+- Excel
+
+---
+
+## 📌 Projects
+🔹 Dynamic Pricing Strategy (Cult.fit Project)  
+🔹 Data Analysis Projects  
+🔹 Coming more...
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Machine Learning
+- Data Visualization
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/satish-athwal/
+- Email: satishathwal7@gmail.com
+
+---
+
+⭐ "Always learning, always growing"
