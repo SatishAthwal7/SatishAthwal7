@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
-- Email: (your email)
+- LinkedIn: [(your link)](https://www.linkedin.com/in/satish-athwal/)
+- Email: Satishathwal7@gmail.com
 
 ---
 
